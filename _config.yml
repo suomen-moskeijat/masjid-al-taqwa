@@ -1,0 +1,10 @@
+# Masjid Al-Taqwa – sivun asetukset
+# Ulkoasu, rukousaikojen ja Instagramin haku: https://github.com/suomen-moskeijat/pohja
+title: "Masjid Al-Taqwa"
+description: "Masjid Al-Taqwa, Tulkinkuja 3, Espoo. Rukousajat, tapahtumat ja toiminta."
+moskeija: masjid-al-taqwa     # tiedosto _moskeijat/masjid-al-taqwa.md
+
+# Osoite: https://suomen-moskeijat.github.io/masjid-al-taqwa/
+# Omalla verkkotunnuksella (esim. moskeija.fi): url: "https://moskeija.fi" ja baseurl: ""
+url: "https://suomen-moskeijat.github.io"
+baseurl: "/masjid-al-taqwa"
